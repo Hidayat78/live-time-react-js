@@ -1,0 +1,20 @@
+h1 {
+    background-color: aqua;
+    color: white;
+    text-align: center;
+    height: 300px;
+}
+
+ul li {
+    list-style: none;
+    display: inline-block;
+    padding: 13px 15px;
+    background-color: black;
+    width: 25%;
+
+}
+
+ul li a {
+    text-decoration: none;
+    color: white;
+}
